@@ -1,0 +1,15 @@
+Package: ConvenienceFunctions3
+Type: Package
+Title: Convenience functions 3 for R for QBS181
+Version: 0.1.0
+Author: Gibran Erlangga
+Authors@R: person("Gibran","Erlangga",email="gibran.erlangga.gr@dartmouth.edu",role = c("aut", "cre"))
+Description: Functions to provide convenience in our lives.
+License: MIT
+Depends: R (>= 3.5.0)
+Encoding: UTF-8
+LazyData: true
+Imports:
+  stats, 
+  ggplot2
+RoxygenNote: 7.1.2
